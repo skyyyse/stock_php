@@ -1,0 +1,4 @@
+step by step set up php project 
+1.create database name example_stock 
+2.import my database from document and Run 
+4.opne Xampp to run project 
